@@ -1,7 +1,8 @@
 ![João Rodrigo (1)](https://user-images.githubusercontent.com/103339912/177218506-df3ea640-c6ea-4a45-adfb-ae8925fbd38c.png)
 
 <div>
-  <h1 align="center">🚀👊 Opaa Tudo Tranquilo? Me chamo <a href="https://www.linkedin.com/in/jo%C3%A3o-rodrigo-1b7b02213"><i>Rodrigo</i></a> 😃️</h1>
+  <h1 align="center">🚀👊 Opaa Tudo Tranquilo? Me chamo <a href="https://www.linkedin.com/in/jo%C3%A3o-rodrigo-1b7b02213
+"><i>Rodrigo</i></a> 😃️</h1>
   <p align="center">Como desenvolvedor back-end:
        Sou focado em desenvolvimento utilizando Javascript, Typescript e NodeJS.
        Tenho conhecimento em ExpressJS, TypeORM, Docker e PostgreSQL.
@@ -27,6 +28,7 @@
 </div><br>
 <div align="center">
   <a href="https://www.instagram.com/rodrigo.joao1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-rodrigo-1b7b02213" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-rodrigo-1b7b02213
+" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:jrodrigo0592@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
