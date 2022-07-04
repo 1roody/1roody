@@ -1,3 +1,3 @@
 ## 🚀👊🏼 Olá, veio conhecer minha apresentação??
 
-![github_intro](https://user-images.githubusercontent.com/103339912/177216136-08dfe020-40c3-4f49-9b0d-139175143e15.png)
+![João Rodrigo (1)](https://user-images.githubusercontent.com/103339912/177218506-df3ea640-c6ea-4a45-adfb-ae8925fbd38c.png)
