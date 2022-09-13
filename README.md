@@ -8,7 +8,7 @@
        Tenho conhecimento em ExpressJS, TypeORM, Docker e PostgreSQL.
        Tenho conhecimento em criação de testes utilizando JEST e,
        em ferramentas como Serverless e Prisma IO.</p>
-  <p align="center">Desenvolvo utilizando conceitos de S.O.L.I.D. Clean architeture e TDD 😉️</h2>
+  <p align="center">Desenvolvo utilizando conceitos de SOLID Clean architeture e TDD 😉️</h2>
 </div>
 
 <div align="center">
