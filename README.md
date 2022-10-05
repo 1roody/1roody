@@ -3,8 +3,8 @@
 <div>
   <h1 align="center">🚀👊 Opaa Tudo Tranquilo? Me chamo <a href="https://www.linkedin.com/in/jo%C3%A3o-rodrigo-1b7b02213
 "><i>Rodrigo</i></a> 😃️</h1>
-  <p align="center">Como desenvolvedor back-end:
-       Sou focado em desenvolvimento utilizando Javascript, Typescript e NodeJS.
+  <p align="center">Como desenvolvedor web:
+       Sou focado em desenvolvimento utilizando Javascript, Typescript, ReactJS e NodeJS.
        Tenho conhecimento em ExpressJS, TypeORM, Docker e PostgreSQL.
        Tenho conhecimento em criação de testes utilizando JEST e,
        em ferramentas como Serverless e Prisma IO.</p>
