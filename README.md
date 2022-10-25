@@ -1,4 +1,4 @@
-![João Rodrigo](https://user-images.githubusercontent.com/103339912/194105631-ae567b33-147a-49ff-a955-0e22551678b4.png)
+![bg-github](https://user-images.githubusercontent.com/103339912/197797384-44e8c705-4e49-46b2-8aeb-c8d93d72ac84.png)
 
 <div>
   <h1 align="center">🚀👊 Opaa Tudo Tranquilo? Me chamo <a href="https://www.linkedin.com/in/jo%C3%A3o-rodrigo-1b7b02213
