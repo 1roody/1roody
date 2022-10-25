@@ -5,10 +5,9 @@
 "><i>Rodrigo</i></a> 😃️</h1>
   <p align="center">Como desenvolvedor web:
        Sou focado em desenvolvimento utilizando Javascript, Typescript, ReactJS e NodeJS.
-       Tenho conhecimento em ExpressJS, TypeORM, Docker e PostgreSQL.
-       Tenho conhecimento em criação de testes utilizando JEST e,
-       em ferramentas como Serverless e Prisma IO.</p>
-  <p align="center">Desenvolvo utilizando conceitos de SOLID Clean architeture e TDD 😉️</h2>
+       Tenho conhecimento em ExpressJS, TypeORM, Docker, PostgreSQL.
+       Tenho conhecimento em criação de testes utilizando JEST.</p>
+  <p align="center">Desenvolvo utilizando conceitos de SOLID, Clean architeture e TDD 😉️</h2>
 </div>
 
 <div align="center">
