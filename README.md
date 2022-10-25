@@ -7,7 +7,7 @@
        Sou focado em desenvolvimento utilizando Javascript, Typescript, ReactJS e NodeJS.
        Tenho conhecimento em ExpressJS, TypeORM, Docker, PostgreSQL.
        Tenho conhecimento em criação de testes utilizando JEST.</p>
-  <p align="center">Desenvolvo utilizando conceitos de SOLID, Clean architeture e TDD 😉️</h2>
+  <p align="center">Procurando por um dev? fala comigo! 😉️</h2>
 </div>
 
 <div align="center">
