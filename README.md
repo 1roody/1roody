@@ -2,11 +2,13 @@
 <h3 font-size="20" align="center">Changing The Development Perspective With Security.</h3><br>
 
 
--> I’m Currently Working at **Cubo Tecnologia**
+```
+> I’m Currently Working at Cubo Tecnologia
 
--> I'm a Back-end Developer With 2 Years of Experience in **NodeJS** and other multiple languages.
+> I'm a Back-end Developer With 2 Years of Experience in NodeJS and other multiple languages.
 
--> Improving New Skills in **Cybersecurity** and **AppSec**.
+> Improving New Skills in Cybersecurity and AppSec.
+```
 
 ---
 
