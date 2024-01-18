@@ -10,7 +10,7 @@
 
 ---
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Techs which I've already worked</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
@@ -28,10 +28,6 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
       alt="php"/>
   </a>
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
@@ -52,12 +48,8 @@
     <a href="https://laravel.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" 
       alt="nginx"/> 
-  </a> 
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <a href="https://www.postgresql.org" target="_blank"> 
+  </a>
+    <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
       alt="postgresql"/> 
   </a>
@@ -76,27 +68,15 @@
   <a href="#" target="_blank"> 
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
       alt="mysql"/> 
-  </a> 
-</p>
-
-<h3 align="center">Cloud & Hosting:</h3>
-<p align="center">
+  </a>
   <a href="#" target="_blank">
     <img  src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/> 
   </a>
-</p>
-
-<h3 align="center">Testing</h3>
-<p align="center"> 
   <a href="#" target="_blank"> 
     <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"
       alt="jest" /> 
   </a>
-</p>
-
-<h3 align="center">Version Control & CI/CD</h3>
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank">
+    <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
   </a>
@@ -110,11 +90,7 @@
   <a href="https://www.jenkins.io" target="_blank"> 
     <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
   </a>
-</p>
-
-<h3 align="center">Preferred IDEs  & Tools :</h3>
-<p align="center">
-  <a href="https://code.visualstudio.com/" target="_blank">
+    <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
   <a href="https://postman.com" target="_blank"> 
