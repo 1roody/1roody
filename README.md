@@ -7,7 +7,7 @@
 
 > I'm a Back-end Developer With 2 Years of Experience in NodeJS and other multiple languages.
 
-> Currently focusing in Offensive Security.
+> Currently focusing in Application Security.
 ```
 
 ---
