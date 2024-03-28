@@ -5,9 +5,9 @@
 ```
 > I’m Currently Working at Cubo Tecnologia
 
-> I'm a Back-end Developer With 2 Years of Experience in NodeJS and other multiple languages.
+> I'm a Back-end Developer With experience in node.js, golang and rust.
 
-> Currently focusing in Application Security.
+> Currently improving in Application Security Engineering.
 ```
 
 ---
