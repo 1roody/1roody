@@ -4,7 +4,7 @@
 ```
 > I’m Currently Working at Cubo Tecnologia
 
-> I'm a Application Security Engineer with experience back-end in node.js, golang and rust.
+> I'm a Application Security Engineer with experience in back-end in node.js, golang and rust.
 
 > Currently improving in Penetrattion Testing.
 ```
