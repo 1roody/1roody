@@ -1,4 +1,4 @@
-<h1 align="center">What's up, I'm Rodrigo (also know as roody)
+<h1 align="center">What's up, I'm Rodrigo (also know as roody) </h1>
 
 ```
 > I’m Currently Working at Cubo Tecnologia
